@@ -14,6 +14,7 @@
 
 <p align="center"> Techs that I've used at least once </p>
 <div class="sub-stack">
+<p align="center">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp 
@@ -25,7 +26,11 @@
 
 <h3 align="center">✨ My GitHub Stats ✨</h3>
 <p align="center">
-![Youngmi's github stats](https://github-readme-stats.vercel.app/api?username=Youngmi-Park&show_icons=true)	
+
+![Youngmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youngmi-Park&count_private=true&show_icons=true&theme=dracula&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youngmi-Park&layout=compact&theme=dracula)
+
+
 </p>
 
 <p align="center">
