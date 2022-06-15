@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Youngmi Park&fontAlignY=40&fontSize=80&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=YoungmiPark&fontAlignY=40&fontSize=80&descAlignY=65&animation=twinkling)
 
 <h3 align="center">Welcome 😊</h3>
 
