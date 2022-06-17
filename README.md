@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=130&section=header&text=YoungmiPark&fontAlignY=40&fontSize=70&descAlignY=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=130&section=header&text=YoungmiPark&fontAlignY=40&fontSize=70&descAlignY=65&animation=twinkling)
 
 <h3 align="center">Welcome 😊</h3>
 
@@ -6,7 +6,7 @@
 <div class="stack">
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>&nbsp
 </p>
