@@ -28,7 +28,7 @@
 <div align="center">
 
 ![Youngmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youngmi-Park&count_private=true&show_icons=true&theme=dracula&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youngmi-Park&layout=compact&theme=dracula)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youngmi-Park&layout=compact&theme=dracula)-->
 
 </p>
 
